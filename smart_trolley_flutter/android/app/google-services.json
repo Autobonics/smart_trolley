@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "489864260131",
+    "firebase_url": "https://smart-trolley-cdd7b-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "smart-trolley-cdd7b",
+    "storage_bucket": "smart-trolley-cdd7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489864260131:android:f60b2bf38e5ac300745f96",
+        "android_client_info": {
+          "package_name": "com.autobonics.ring_sorting_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489864260131-273vk35ehbmdvckfm5gdl2n3t2d67mo9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD22keXS8atF7HXEi1cj_hhwubBgDPv0rg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "489864260131-273vk35ehbmdvckfm5gdl2n3t2d67mo9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "489864260131-qridrm47cf86d5haiso0lu36c3h3lgbn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.autobonics.hydropodHydroponics"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489864260131:android:69a29f7406e1d32f745f96",
+        "android_client_info": {
+          "package_name": "com.autobonics.smart_trolley"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489864260131-273vk35ehbmdvckfm5gdl2n3t2d67mo9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD22keXS8atF7HXEi1cj_hhwubBgDPv0rg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "489864260131-273vk35ehbmdvckfm5gdl2n3t2d67mo9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "489864260131-qridrm47cf86d5haiso0lu36c3h3lgbn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.autobonics.hydropodHydroponics"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
